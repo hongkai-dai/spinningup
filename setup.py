@@ -21,6 +21,7 @@ setup(
         'matplotlib==3.1.1',
         'mpi4py',
         'numpy',
+        'opencv-python==4.5.3.56',
         'pandas',
         'pytest',
         'psutil',
